@@ -4106,15 +4106,6 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gmBDBbM5EeGGKYxwtmikng" value="1"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_r5iBULR7EeGtj8yeUZpNMw" name="taskName" visibility="private"/>
-      <ownedAttribute xmi:id="_v8NzoLR7EeGtj8yeUZpNMw" name="taskCreationDate" visibility="private">
-        <type xmi:type="uml:Class" href="pathmap://XSD_LIBRARIES/XSDDataTypes.library.emx#_7yKF8SkGEdmDdasWev0kGA?XSDDataTypes/XSDDataTypes/date?"/>
-      </ownedAttribute>
-      <ownedAttribute xmi:id="_xjxnULR7EeGtj8yeUZpNMw" name="taskBeginDate" visibility="private">
-        <type xmi:type="uml:Class" href="pathmap://XSD_LIBRARIES/XSDDataTypes.library.emx#_7yKF8SkGEdmDdasWev0kGA?XSDDataTypes/XSDDataTypes/date?"/>
-      </ownedAttribute>
-      <ownedAttribute xmi:id="_yTAr4LR7EeGtj8yeUZpNMw" name="taskEndDate" visibility="private">
-        <type xmi:type="uml:Class" href="pathmap://XSD_LIBRARIES/XSDDataTypes.library.emx#_7yKF8SkGEdmDdasWev0kGA?XSDDataTypes/XSDDataTypes/date?"/>
-      </ownedAttribute>
       <ownedAttribute xmi:id="_zl3a4LR7EeGtj8yeUZpNMw" name="taskOwner" visibility="private"/>
       <ownedOperation xmi:id="_HMGUkLMREeG7fKrJpQoJAQ" name="createNewTask"/>
       <ownedOperation xmi:id="_JQIB0LMREeG7fKrJpQoJAQ" name="saveTask"/>
