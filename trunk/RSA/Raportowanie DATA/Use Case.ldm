@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:LogicalDataModel="http:///com/ibm/db/models/logical/logical.ecore">
+  <LogicalDataModel:Package xmi:id="_0DqeBrUnEeGYEogB5dpB1w" name="Use Case" children="_0DqeArUnEeGYEogB5dpB1w _0DqeBLUnEeGYEogB5dpB1w _0DqeAbUnEeGYEogB5dpB1w _0DqeA7UnEeGYEogB5dpB1w _0DqeBbUnEeGYEogB5dpB1w _0DqeALUnEeGYEogB5dpB1w"/>
+  <LogicalDataModel:Package xmi:id="_0DqeALUnEeGYEogB5dpB1w" name="Model" targetNamespace="Use Case" parent="_0DqeBrUnEeGYEogB5dpB1w"/>
+  <LogicalDataModel:Package xmi:id="_0DqeAbUnEeGYEogB5dpB1w" name="Overviews" targetNamespace="Use Case" parent="_0DqeBrUnEeGYEogB5dpB1w"/>
+  <LogicalDataModel:Package xmi:id="_0DqeArUnEeGYEogB5dpB1w" name="Use-Case Building Blocks" targetNamespace="Use Case" parent="_0DqeBrUnEeGYEogB5dpB1w" children="_0DqeB7UnEeGYEogB5dpB1w"/>
+  <LogicalDataModel:Package xmi:id="_0DqeA7UnEeGYEogB5dpB1w" name="Widok" targetNamespace="Use Case" parent="_0DqeBrUnEeGYEogB5dpB1w"/>
+  <LogicalDataModel:Package xmi:id="_0DqeBLUnEeGYEogB5dpB1w" name="Versatile Actors" targetNamespace="Use Case" parent="_0DqeBrUnEeGYEogB5dpB1w"/>
+  <LogicalDataModel:Package xmi:id="_0DqeBbUnEeGYEogB5dpB1w" name="Kontroler" targetNamespace="Use Case" parent="_0DqeBrUnEeGYEogB5dpB1w"/>
+  <LogicalDataModel:Package xmi:id="_0DqeB7UnEeGYEogB5dpB1w" name="${functional.area}" targetNamespace="Use Case::Use-Case Building Blocks" parent="_0DqeArUnEeGYEogB5dpB1w"/>
+</xmi:XMI>
